@@ -1,4 +1,4 @@
-<table width="100%" border="0">
+<table width="100%" border="0" cellpadding="8">
   <tr>
     <td colspan="2" valign="middle">
       <img src="avatar.png" width="160" align="left" alt="Can Ovacık" />
@@ -45,14 +45,6 @@
         <li><b>🚢 Container Tracking Platform:</b> Real-time shipment tracking, Multi-provider integrations, Large-scale data processing.</li>
         <li><b>🌍 Maritime Route Optimization:</b> Custom pathfinding algorithm, Binary world map approach, Geo-based constraints.</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=canovack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canovack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
