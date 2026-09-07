@@ -2,7 +2,7 @@
   <tr>
     <td colspan="2" valign="middle">
       <img src="avatar.png" width="160" align="left" alt="Can Ovacık" />
-      <h3>👾 Can Ovacık</h3>
+      <h2>👾 Can Ovacık</h2>
       <img src="https://readme-typing-svg.demolab.com?color=00FF00&center=false&vCenter=false&lines=Backend+Developer;Laravel+Developer;Logistics+Systems" alt="Typing effect" />
       <br clear="all" />
     </td>
