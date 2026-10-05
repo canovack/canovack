@@ -52,6 +52,9 @@
       <a href="https://linkedin.com/in/abbas-can-ovacik-4b125a133" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
+      <a href="https://canovacik.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+      </a>
     </td>
   </tr>
 </table>
